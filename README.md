@@ -10,7 +10,7 @@
 
 - 🌍 I live in Planalto-BA, Brazil
 - ✉️ You can get in touch through fabricio.binho27@gmail.com
-- :school: I am studing at IFBA
+- :school: I have a bachelor's degree in information systems at IFBA.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`
